@@ -1,0 +1,10 @@
+# requirements.txt - Lista de librerías necesarias
+
+# Conector para MySQL
+mysql-connector-python==8.0.33
+
+# NumPy para cálculos científicos
+numpy==1.24.3
+
+# Matplotlib para gráficos
+matplotlib==3.7.1
